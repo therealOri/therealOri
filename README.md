@@ -5,9 +5,9 @@ I’m currently working with Python/Python3.
 
 I'm a discord bot developer and website designer/deveoper.
 
-I love Games, Movies, Music, and Cooking.
+I love Games, Coding/Programming, Movies, Music, and Cooking.
 
-I use Linux Manjaro (The better Arch) #LinuxGang
+I use Linux Manjaro (The Superior Arch) #LinuxGang
 
 
 
