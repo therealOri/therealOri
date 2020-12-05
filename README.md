@@ -5,7 +5,7 @@ I’m currently working with Python/Python3.
 
 I'm a discord bot developer and website designer/deveoper.
 
-I love Games, Movies, Music, cooking and freedom! 🦅
+I love Games, Movies, Music, and Cooking.
 
 I use Linux Manjaro (The better Arch) #LinuxGang
 
@@ -32,3 +32,10 @@ I use Linux Manjaro (The better Arch) #LinuxGang
 	    </tbody>
 	</table align="center">
 </p>
+
+
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=therealOri&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealOri&exclude_repo=Aang)](https://github.com/anuraghazra/github-readme-stats)
