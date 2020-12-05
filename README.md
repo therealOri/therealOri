@@ -12,7 +12,7 @@ I use Linux Manjaro (The better Arch) #LinuxGang
 
 
 <h1 align="center">🦊 ⋆ 🎀 therealOri 🎀 ⋆ 🦊</h1>
-<h1 align="center">[+]──────────────────────────────[+]</h1>
+<h1 align="center">[+]────────────────────────────[+]</h1>
 <h3 align="center">🌀 aka Ori 🌀</h3>
 <p align="center">
 	<table align="center">
