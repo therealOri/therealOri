@@ -25,7 +25,7 @@ I use Linux Manjaro (The Superior Arch) #LinuxGang
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td align="left"><a href="omintyd@gmail.com" target="_blank">Click here</a></td>
+	            <td align="left">omintyd@gmail.com</td>
 	            <td align="center"><a href="https://twitter.com/therealOri_" target="_blank">Click here</a></td></td>
 	            <td align="right">Ori#6338</td>
 	        </tr>
