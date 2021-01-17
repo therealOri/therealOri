@@ -18,14 +18,14 @@ I use Linux Manjaro (The Superior Arch) #LinuxGang
 	<table align="center">
 	    <thead>
 	        <tr>
-	            <th align="center">Website 💗</th>
+	            <th align="center">Email 💗</th>
 	            <th align="center">Twitter 💙</th>
 	            <th align="center">Discord 💜</th>
 	        </tr>
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td align="left"><a href="https://omintyd.tk/" target="_blank">Click here</a></td>
+	            <td align="left"><a href="omintyd@gmail.com" target="_blank">Click here</a></td>
 	            <td align="center"><a href="https://twitter.com/therealOri_" target="_blank">Click here</a></td></td>
 	            <td align="right">Ori#6338</td>
 	        </tr>
