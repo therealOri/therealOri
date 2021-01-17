@@ -3,6 +3,8 @@
 
 I’m currently working with Python/Python3.
 
+OSINT Researcher/Investigator/Profiler.
+
 I'm a discord bot developer and website designer/deveoper.
 
 I love Games, Coding/Programming, Movies, Music, and Cooking.
