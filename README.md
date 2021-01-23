@@ -9,7 +9,7 @@ I'm a discord bot developer and website designer/deveoper.
 
 I love Games, Coding/Programming, Movies, Music, and Cooking.
 
-I use Linux Manjaro (The Superior Arch) #LinuxGang
+#LinuxGang
 
 
 
@@ -21,14 +21,14 @@ I use Linux Manjaro (The Superior Arch) #LinuxGang
 	    <thead>
 	        <tr>
 	            <th align="center">Email 💗</th>
-	            <th align="center">Twitter 💙</th>
+	            <th align="center">Linux 💙</th>
 	            <th align="center">Discord 💜</th>
 	        </tr>
 	    </thead>
 	    <tbody>
 	        <tr>
 	            <td align="left">omintyd@gmail.com</td>
-	            <td align="center"><a href="https://twitter.com/therealOri_" target="_blank">Click here</a></td></td>
+	            <td align="center"><a href="https://manjaro.org/get-manjaro/" target="_blank">Manjaro</a></td></td>
 	            <td align="right">Ori#6338</td>
 	        </tr>
 	    </tbody>
