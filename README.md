@@ -13,6 +13,8 @@ I love Games, Coding/Programming, Movies, Music, and Cooking.
 
 
 
+
+
 <h1 align="center">🦊 ⋆ 🎀 therealOri 🎀 ⋆ 🦊</h1>
 <h1 align="center">[+]────────────────────────────[+]</h1>
 <h3 align="center">🌀 aka Ori 🌀</h3>
@@ -23,6 +25,7 @@ I love Games, Coding/Programming, Movies, Music, and Cooking.
 	            <th align="center">Email 💗</th>
 	            <th align="center">Linux 💙</th>
 	            <th align="center">Discord 💜</th>
+		    <th align="center">Discord Server 💚</th>
 	        </tr>
 	    </thead>
 	    <tbody>
@@ -30,6 +33,7 @@ I love Games, Coding/Programming, Movies, Music, and Cooking.
 	            <td align="left">omintyd@gmail.com</td>
 	            <td align="center"><a href="https://manjaro.org/get-manjaro/" target="_blank">Manjaro</a></td></td>
 	            <td align="right">Ori#6338</td>
+		    <td align="center"><a href="https://discord.gg/pbGQk4qdNS" target="_blank">Server</a></td></td>
 	        </tr>
 	    </tbody>
 	</table align="center">
