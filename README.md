@@ -30,7 +30,7 @@ I love Games, Coding/Programming, Movies, Music, and Cooking.
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td align="left">omintyd@gmail.com</td>
+	            <td align="left">OriSINT@protonmail.com</td>
 	            <td align="center"><a href="https://manjaro.org/get-manjaro/" target="_blank">Manjaro</a></td></td>
 	            <td align="right">Ori#6338</td>
 		    <td align="center"><a href="https://discord.gg/pbGQk4qdNS" target="_blank">Server</a></td></td>
