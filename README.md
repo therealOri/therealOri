@@ -3,7 +3,7 @@
 
 I’m currently working with Python/Python3.
 
-OSINT Researcher/Investigator/Profiler.
+OSINT/SOSINT Researcher/Investigator/Profiler.
 
 I'm a discord bot developer and website designer/deveoper.
 
