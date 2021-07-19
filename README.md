@@ -26,6 +26,7 @@ I love Games, Coding/Programming, Movies, Music, and Cooking.
 	            <th align="center">Linux 💙</th>
 	            <th align="center">Discord 💜</th>
 		    <th align="center">Discord Server 💚</th>
+		    <th align="center">Website 🤍</th>
 	        </tr>
 	    </thead>
 	    <tbody>
@@ -34,6 +35,7 @@ I love Games, Coding/Programming, Movies, Music, and Cooking.
 	            <td align="center"><a href="https://manjaro.org/get-manjaro/" target="_blank">Manjaro</a></td></td>
 	            <td align="right">Ori#6338</td>
 		    <td align="center"><a href="https://discord.gg/ewpUxbqVXK" target="_blank">Server</a></td></td>
+		    <td align="center"><a href="https://orisint.tech" target="_blank">orisint</a></td></td>
 	        </tr>
 	    </tbody>
 	</table align="center">
