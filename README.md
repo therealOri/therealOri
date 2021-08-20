@@ -48,4 +48,8 @@ __ __
 <br />
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=therealOri&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealOri&exclude_repo=Aang)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=therealOri&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealOri&exclude_repo=Aang)](https://github.com/anuraghazra/github-readme-stats)
