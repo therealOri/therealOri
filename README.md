@@ -1,22 +1,26 @@
-### Hi there 👋
+__ __
+### Hello there 👋
 
+I am Ori!
 
-I’m currently working with Python/Python3.
+And i'm currently working with Python/Python3.
 
-OSINT/SOSINT Researcher/Investigator/Profiler.
+I'm an OSINT/SOSINT Researcher/Investigator/Profiler.
 
 I'm a discord bot developer and website designer/deveoper.
 
 I love Games, Coding/Programming, Movies, Music, and Cooking.
 
-#LinuxGang
-
-
-
+#LinuxGang | OSINT and Coding Commissions: (`Open`)
+__ __
+<br />
+<br />
+<br />
+<br />
 
 
 <h1 align="center">🦊 ⋆ 🎀 therealOri 🎀 ⋆ 🦊</h1>
-<h1 align="center">[+]────────────────────────────[+]</h1>
+<h1 align="center">[+]───────────────────────────[+]</h1>
 <h3 align="center">🌀 aka Ori 🌀</h3>
 <p align="center">
 	<table align="center">
@@ -40,10 +44,8 @@ I love Games, Coding/Programming, Movies, Music, and Cooking.
 	    </tbody>
 	</table align="center">
 </p>
+<br />
+<br />
+<br />
 
-
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=therealOri&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealOri&exclude_repo=Aang)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=therealOri&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealOri&exclude_repo=Aang)](https://github.com/anuraghazra/github-readme-stats)
