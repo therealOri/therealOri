@@ -1,13 +1,13 @@
-__ __
 ### Hello there 👋
+__ __
 
-I am Ori!
+I am Ori ^-^
 
-And i'm currently working with Python/Python3.
+I am currently working with and studying Python/Python3.
 
 I'm an OSINT/SOSINT Researcher/Investigator/Profiler.
 
-I'm a discord bot developer and website designer/deveoper.
+I make discord bots and am a beginner website designer/deveoper. I'd love to learn more about making and hosting websites.
 
 I love Games, Coding/Programming, Movies, Music, and Cooking.
 
