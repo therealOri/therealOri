@@ -12,6 +12,8 @@ I make discord bots and am a beginner website designer/deveoper. I'd love to lea
 I love Games, Coding/Programming, Movies, Music, and Cooking.
 
 #LinuxGang | OSINT and Coding Commissions: (`Open`)
+
+![](https://komarev.com/ghpvc/?username=therealOri&color=blueviolet&style-plastic)
 __ __
 <br />
 <br />
