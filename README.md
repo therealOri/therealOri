@@ -13,8 +13,36 @@ I love Games, Coding/Programming, Movies, Music, and Cooking.
 
 #LinuxGang | OSINT and Coding Commissions: (`Open`)
 
+<br />
+<br />
+
+```bash
+[therealOri ~]$ neofetch
+```
+
+<img align="left" src="https://user-images.githubusercontent.com/45724082/133650932-ef134e6f-3bbe-4dd9-92d6-098a14cba5d3.png" alt="pyarch.png" width="200" /> 
+
+```csharp
+therealori@github
+----------------
+
+       OS  :  Manjaro Linux
+       WM  :  Kwin
+    Shell  :  Bash 5.1
+ Terminal  :  Konsole
+Languages  :  Python3, Bash/Shell
+
+----------------
+```
+
+<br />
+
+---
+
 ![](https://komarev.com/ghpvc/?username=therealOri&color=blueviolet&style-plastic)
+
 __ __
+
 <br />
 <br />
 <br />
