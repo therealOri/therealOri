@@ -83,3 +83,5 @@ __ __
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealOri&exclude_repo=Aang)
+
+![](https://hit.yhype.me/github/profile?user_id=45724082)
