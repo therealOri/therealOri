@@ -76,7 +76,7 @@ __ __
 <br />
 <br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=therealOri&theme=radical)
+![Ori's github stats](https://github-readme-stats.vercel.app/api?username=therealOri&theme=radical)
 
 <br />
 
