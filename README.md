@@ -7,11 +7,15 @@ I am currently working with and studying Python/Python3.
 
 I'm an OSINT/SOSINT Researcher/Investigator/Profiler.
 
-I make discord bots and am a beginner website designer/deveoper. I'd love to learn more about making and hosting websites.
+I am heavily into Steganography and Cryptography at the moment.
+
+I like to make discord bots and do neat little things with python!
 
 I love Games, Coding/Programming, Movies, Music, and Cooking.
 
 #LinuxGang | OSINT and Coding Commissions: (`Open`)
+
+> If you or someone you know would like some help with a coding project in python, then I'd love to help!
 
 <br />
 <br />
