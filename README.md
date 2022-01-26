@@ -15,8 +15,10 @@ I love Games, Coding/Programming, Movies, Music, and Cooking.
 
 #LinuxGang | OSINT and Coding Commissions: (`Open`)
 
-> If you or someone you know would like some help with a coding project in python, then I'd love to help!
+> If you or someone you know would like some help with a coding project in python or would like to hire me, then I'd love to help!
+> - Contact me Via Email or discord DMs.
 
+<br />
 <br />
 <br />
 
@@ -68,7 +70,7 @@ __ __
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td align="left">OriSINT@protonmail.com</td>
+	            <td align="left">therealOri@duck.com</td>
 	            <td align="center"><a href="https://manjaro.org/get-manjaro/" target="_blank">Manjaro</a></td></td>
 	            <td align="right">Ori#6338</td>
 		    <td align="center"><a href="https://discord.gg/ewpUxbqVXK" target="_blank">Server</a></td></td>
