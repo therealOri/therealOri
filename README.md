@@ -5,9 +5,7 @@ I am Ori ^-^
 
 I am currently working with and studying Python/Python3.
 
-I'm an OSINT/SOSINT Researcher/Investigator/Profiler.
-
-I am heavily into Steganography and Cryptography at the moment.
+I am heavily into Steganography, Cryptography, Cyber Security, and Privacy at the moment.
 
 I like to make discord bots and do neat little things with python!
 
