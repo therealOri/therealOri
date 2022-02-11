@@ -14,7 +14,7 @@ I love Games, Coding/Programming, Movies, Music, and Cooking.
 Cyber Security Threat Hunter Level: (Beginner)
 > ^^ Send your "sketchy" emails, attachments, files, etc. to `ori.mware@protonmail.com` for me to analyze.
 
-#LinuxGang | OSINT and Coding Commissions: (`Open`)
+#LinuxGang | Coding Commissions: (`Open`)
 
 > If you or someone you know would like some help with a coding project in python or would like to hire me, then I'd love to help!
 > - Contact me Via the Email below or discord DMs.
