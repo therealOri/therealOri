@@ -85,7 +85,7 @@ __ __
 <br />
 
 ![Ori's github stats](https://github-readme-stats.vercel.app/api?username=therealOri&theme=radical)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Ori's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=therealOri&exclude_repo=Aang)
 
 ![](https://hit.yhype.me/github/profile?user_id=45724082)
