@@ -79,14 +79,26 @@ __ __
 	    </tbody>
 	</table align="center">
 </p>
+
 <br />
 <br />
 <br />
 
 ![Ori's github stats](https://github-readme-stats.vercel.app/api?username=therealOri&theme=radical)
-
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealOri&exclude_repo=Aang)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Ori's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=therealOri&exclude_repo=Aang)
 
 ![](https://hit.yhype.me/github/profile?user_id=45724082)
+
+
+<br />
+<br />
+<br />
+
+
+# Support  |  Buy me a coffee <3
+Donate to me here:
+> - Don't have Cashapp? [Sign Up](https://cash.app/app/TKWGCRT)
+
+![image](https://user-images.githubusercontent.com/45724082/158000721-33c00c3e-68bb-4ee3-a2ae-aefa549cfb33.png)
+
