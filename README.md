@@ -84,9 +84,15 @@ __ __
 <br />
 <br />
 
-![Ori's github stats](https://github-readme-stats.vercel.app/api?username=therealOri&theme=radical)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Ori's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=therealOri&exclude_repo=Aang)
+<div align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=therealOri&count_private=false&show_icons=true&theme=radical&hide_border=true&hide_title=true)
+	
+![](https://github-readme-stats.vercel.app/api?username=therealOri&theme=radical&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=therealOri&exclude_repo=Aang&layout=compacthide_border=true&theme=radical&hide_border=true)
+
+</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=45724082)
 
