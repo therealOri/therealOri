@@ -35,7 +35,7 @@ therealori@github
 
        OS  :  Manjaro Linux
        WM  :  Kwin
-    Shell  :  Bash 5.1
+    Shell  :  Zsh 5.8.1
  Terminal  :  Konsole
 Languages  :  Python3, Bash/Shell
 
