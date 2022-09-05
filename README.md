@@ -66,7 +66,7 @@ __ __
 	            <th align="center">Email 💗</th>
 	            <th align="center">Linux 💙</th>
 	            <th align="center">Discord 💜</th>
-		    <th align="center">Globe 💚</th>
+		    <th align="center">Website 💚</th>
 	        </tr>
 	    </thead>
 	    <tbody>
@@ -74,7 +74,7 @@ __ __
 	            <td align="left">therealOri@duck.com</td>
 	            <td align="center"><a href="https://manjaro.org/get-manjaro/" target="_blank">Manjaro</a></td></td>
 	            <td align="right">Ori#6338</td>
-		    <td align="center"><a href="https://therealori.tk" target="_blank">Globe</a></td></td>
+		    <td align="center"><a href="https://therealori.tk" target="_blank">Home</a></td></td>
 	        </tr>
 	    </tbody>
 	</table align="center">
