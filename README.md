@@ -6,8 +6,6 @@ I am Ori ^-^
 
 I am heavily into Steganography, Cryptography, Cyber Security, and Privacy at the moment.
 
-I like to make discord bots and do neat little things with python!
-
 I love Games, Coding/Programming, Movies, Music, and Cooking.
 
 Cyber Security Threat Hunter Level: (Beginner)
@@ -15,7 +13,7 @@ Cyber Security Threat Hunter Level: (Beginner)
 
 #LinuxGang | Coding Commissions: (`Open`)
 
-> If you or someone you know would like some help with a coding project in python or would like to hire me, then I'd love to help!
+> If you or someone you know would like some help with a coding project in python, or if you woul dlike me to take a look at some files and stuff. And would like to hire me, then I'd love to help!
 > - Contact me Via the Email below or discord DMs.
 __ __
 
