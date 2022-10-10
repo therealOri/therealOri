@@ -1,8 +1,11 @@
-### Hello there 👋
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/45724082/194940853-a7b7d3a4-64b8-4763-a520-d11437fc7307.gif" width="600"/>
+</div>
+
 __ __
 
+### Hello Wolrd 👋
 I am Ori ^-^
-
 
 - I am heavily into Steganography, Cryptography, Cyber Security, and Privacy at the moment.
 
