@@ -4,12 +4,16 @@ __ __
 I am Ori ^-^
 
 
-I am heavily into Steganography, Cryptography, Cyber Security, and Privacy at the moment.
+- I am heavily into Steganography, Cryptography, Cyber Security, and Privacy at the moment.
 
-I love Games, Coding/Programming, Movies, Music, and Cooking.
+- I love Games/gaming, Coding/Programming, Movies, Music, and Cooking.
 
-Cyber Security Threat Hunter Level: (Beginner)
-> ^^ Send your "sketchy" emails, attachments, files, etc. to `ori.mware@protonmail.com` for me to analyze.
+- Cyber Security Threat Hunter Level: (Beginner)
+> ^^ Send your "sketchy" emails, links, attachments, files, etc. to `ori.mware@protonmail.com` for me to analyze.
+
+<br />
+<br />
+<br />
 
 #LinuxGang | Coding Commissions: (`Open`)
 
@@ -17,6 +21,7 @@ Cyber Security Threat Hunter Level: (Beginner)
 > - Contact me Via the Email below or discord DMs.
 __ __
 
+<br />
 <br />
 
 ## 🧰 Languages and Tools:
