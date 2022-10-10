@@ -3,7 +3,6 @@ __ __
 
 I am Ori ^-^
 
-I am currently working with and studying Python/Python3.
 
 I am heavily into Steganography, Cryptography, Cyber Security, and Privacy at the moment.
 
