@@ -12,7 +12,7 @@ I am Ori ^-^
 - I love Games/gaming, Coding/Programming, Movies, Music, and Cooking.
 
 - Cyber Security Threat Hunter Level: (Beginner)
-> ^^ Send your "sketchy" emails, links, attachments, files, etc. to `ori.mware@protonmail.com` for me to analyze.
+> ^^ Send/Forward your "sketchy" emails, links, attachments, files, etc. to `ori.mware@protonmail.com` for me to analyze.
 
 <br />
 <br />
@@ -20,7 +20,7 @@ I am Ori ^-^
 
 #LinuxGang | Coding Commissions: (`Open`)
 
-> If you or someone you know would like some help with a coding project in python, or if you woul dlike me to take a look at some files and stuff. And would like to hire me, then I'd love to help!
+> If you or someone you know would like some help with a coding project in python, or if you would like me to take a look at some files and dig deeper into them. Then feel free to hire/commission me! I'd love to help!
 > - Contact me Via the Email below or discord DMs.
 __ __
 
