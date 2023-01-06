@@ -4,7 +4,6 @@
 
 __ __
 
-### Hello World 👋
 I am Ori ^-^
 
 - I am heavily into Steganography, Cryptography, Cyber Security, and Privacy at the moment.
