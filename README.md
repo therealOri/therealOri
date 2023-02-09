@@ -53,7 +53,7 @@ therealori@github
 
        OS  :  Manjaro Linux
        WM  :  Kwin
-    Shell  :  Zsh 5.8.1
+    Shell  :  Zsh
  Terminal  :  Konsole
 
 ----------------
