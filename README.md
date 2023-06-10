@@ -91,7 +91,7 @@ __ __
 	        <tr>
 	            <td align="left">therealOri@duck.com</td>
 	            <td align="center"><a href="https://manjaro.org/get-manjaro/" target="_blank">Manjaro</a></td></td>
-	            <td align="right">Ori#6338</td>
+	            <td align="right">@therealori</td>
 		    <td align="center"><a href="https://therealori.tk" target="_blank">Home</a></td></td>
 	        </tr>
 	    </tbody>
