@@ -108,7 +108,7 @@ __ __
 	
 ![](https://github-readme-stats.vercel.app/api?username=therealOri&theme=radical&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=therealOri&exclude_repo=Aang&layout=compacthide_border=true&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=therealOri&exclude_repo=Aang&layout=compact&hide_border=true&theme=radical)
 
 </div>
 
