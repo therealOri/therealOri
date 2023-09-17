@@ -2,7 +2,6 @@
   <img src="https://github.com/therealOri/therealOri/assets/45724082/f7730307-756a-4d23-98f2-72b316fe9cd8.gif" width="600"/>
 </div>
 
-https://github.com/therealOri/therealOri/assets/45724082/f7730307-756a-4d23-98f2-72b316fe9cd8.gif
 
 __ __
 
