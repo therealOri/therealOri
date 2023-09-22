@@ -14,17 +14,20 @@ I am Ori ^-^
 - Cyber Security Threat Hunter Level: (Beginner)
 > ^^ Send/Forward your "sketchy" emails, links, attachments, files, etc. to `ori.mware@protonmail.com` for me to analyze.
 
-<br />
-<br />
-<br />
+<br>
+<br>
+<br>
 
 Coding Commissions: (`Open`)
 > If you or someone you know would like some help with a coding project in python, or if you would like me to take a look at some files and dig deeper into them. Then feel free to hire/commission me! I'd love to help!
 > - Contact me Via the Email below or discord DMs.
 __ __
 
-<br />
-<br />
+![](https://komarev.com/ghpvc/?username=therealOri&color=blueviolet&style-plastic)
+
+<br>
+<br>
+<br>
 
 ## 👻 Languages & Info 🎃
 
@@ -62,7 +65,6 @@ therealori@github
 
 __ __
 
-![](https://komarev.com/ghpvc/?username=therealOri&color=blueviolet&style-plastic)
 
 
 <br>
