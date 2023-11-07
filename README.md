@@ -1,7 +1,6 @@
 <div id="header" align="center">
-  <img src="https://github.com/therealOri/therealOri/assets/45724082/114484a7-b67e-4131-bb73-7457f56330f6.gif" width="600"/>
+  <img src="https://github.com/therealOri/therealOri/assets/45724082/f7e3abb3-24a9-422b-a94b-42e4c68a8d15" width="600"/>
 </div>
-
 
 __ __
 
@@ -29,7 +28,7 @@ __ __
 <br>
 <br>
 
-## 👻 Languages & Info 🎃
+## Languages & Info
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="80" style="vertical-align:top; margin:4px">
@@ -72,15 +71,15 @@ __ __
 <br>
 
 
-<h1 align="center">🕯️ ⋆ 🎃 Contact 🎃 ⋆ 🕯️</h1>
+<h1 align="center">🕯️ ⋆ 🎁 Contact 🎁 ⋆ 🕯️</h1>
 <h1 align="center">[+]───────────────────────────[+]</h1>
 <p align="center">
 	<table align="center">
 	    <thead>
 	        <tr>
-	            <th align="center">Email 🪦</th>
-	            <th align="center">Discord 🛸</th>
-		    <th align="center">Website 🏚️</th>
+	            <th align="center">Email 🎄</th>
+	            <th align="center">Discord ☃️</th>
+		    <th align="center">Website ❄️</th>
 	        </tr>
 	    </thead>
 	    <tbody>
