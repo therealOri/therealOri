@@ -86,7 +86,7 @@ __ __
 	        <tr>
 	            <td align="left">therealOri@duck.com</td>
 	            <td align="right">@therealori</td>
-		    <td align="center"><a href="https://therealori.tk" target="_blank">Home</a></td></td>
+		    <td align="center"><a href="https://therealori.com" target="_blank">Home</a></td></td>
 	        </tr>
 	    </tbody>
 	</table align="center">
