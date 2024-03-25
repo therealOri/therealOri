@@ -71,15 +71,15 @@ __ __
 <br>
 
 
-<h1 align="center">🕯️ ⋆ 🎁 Contact 🎁 ⋆ 🕯️</h1>
+<h1 align="center">✨ ⋆ ~ Contact ~ ⋆ ✨</h1>
 <h1 align="center">[+]───────────────────────────[+]</h1>
 <p align="center">
 	<table align="center">
 	    <thead>
 	        <tr>
-	            <th align="center">Email 🎄</th>
-	            <th align="center">Discord ☃️</th>
-		    <th align="center">Website ❄️</th>
+	            <th align="center">Email 📧</th>
+	            <th align="center">Discord 👥</th>
+		    <th align="center">Website 🌐</th>
 	        </tr>
 	    </thead>
 	    <tbody>
