@@ -30,18 +30,6 @@ __ __
 
 ## Languages & Info
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="80" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nim/nim.png" alt="Nim" height="80" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/therealOri/therealOri/assets/45724082/65ef4b4e-1fba-4932-a35d-bf78f112a52f" alt="Rust" height="80" style="filter: hue-rotate(190deg); vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Shell/Bash" height="80" style="filter: hue-rotate(190deg); vertical-align:top; margin:4px">
-</p>
-
-<br>
-<br>
-<br>
-
-
 ```bash
 [therealOri ~]$ neofetch
 ```
@@ -62,8 +50,15 @@ therealori@github
 
 <br />
 
-__ __
+<p align="center">
+  	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="80" style="vertical-align:top; margin:4px">
+ 	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nim/nim.png" alt="Nim" height="80" style="vertical-align:top; margin:4px">
+ 	<img src="https://github.com/therealOri/therealOri/assets/45724082/65ef4b4e-1fba-4932-a35d-bf78f112a52f" alt="Rust" height="80" style="filter: hue-rotate(190deg); vertical-align:top; margin:4px">
+  	<img src="https://github.com/therealOri/therealOri/assets/45724082/e399c2d6-ad4b-4cc8-8c9f-fb79352b3317" alt="C++" height="80" style="vertical-align:top; margin:4px">
+  	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Shell/Bash" height="80" style="filter: hue-rotate(190deg); vertical-align:top; margin:4px">
+</p>
 
+__ __
 
 
 <br>
