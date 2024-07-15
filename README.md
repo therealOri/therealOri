@@ -31,7 +31,7 @@ __ __
 ## Languages & Info
 
 ```bash
-[therealOri ~]$ neofetch
+[therealOri ~]$ fastfetch
 ```
 
 <img align="left" src="https://user-images.githubusercontent.com/45724082/133650932-ef134e6f-3bbe-4dd9-92d6-098a14cba5d3.png" alt="pyarch.png" width="200" />
@@ -40,7 +40,7 @@ __ __
 therealori@github
 ----------------
 
-       OS  :  Manjaro Linux
+       OS  :  CachyOS Linux
        WM  :  Kwin
     Shell  :  Zsh
  Terminal  :  Konsole
