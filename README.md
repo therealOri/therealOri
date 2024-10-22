@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/therealOri/therealOri/assets/45724082/f7e3abb3-24a9-422b-a94b-42e4c68a8d15" width="600"/>
+  <img src="https://github.com/user-attachments/assets/77da6ae4-53f3-4cfa-99db-efba02066a66" width="600"/>
 </div>
 
 __ __
