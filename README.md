@@ -114,11 +114,11 @@ Fingerprint:
 6F36 85C9 30DB B904 5728 6C5D 7432 C111 7811 D7CD
 ```
 
-Public key:
+Public key url:
 - https://therealori.com/files/pgp-key.txt
 
 <details>
-<summary>Public key</summary>
+<summary>Public key block</summary>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
