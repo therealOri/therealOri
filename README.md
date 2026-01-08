@@ -10,7 +10,7 @@ I am Ori ^-^
 
 - I love Games/gaming, Coding/Programming, Movies, Music, and Cooking.
 
-- Cyber Security Threat Hunter Level: (Beginner)
+- Cyber Security Threat Hunter:
 > ^^ Send/Forward your "sketchy" emails, links, attachments, files, etc. to `ori.mware@protonmail.com` for me to analyze.
 
 <br>
@@ -90,8 +90,6 @@ __ __
 </p>
 
 <br>
-<br>
-<br>
 
 <div align="center">
 
@@ -104,6 +102,87 @@ __ __
 ![](https://hit.yhype.me/github/profile?user_id=45724082)
 
 __ __
+
+
+<br>
+<br>
+
+## 🔑 PGP / ENCRYPTED COMMUNICATION
+
+Fingerprint:
+```
+6F36 85C9 30DB B904 5728 6C5D 7432 C111 7811 D7CD
+```
+
+Public key:
+- https://therealori.com/files/pgp-key.txt
+
+<details>
+<summary>Public key</summary>
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=+xv5
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+</details>
+
+__ __
+
+
+
+
+
 
 
 <br>
