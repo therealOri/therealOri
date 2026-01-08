@@ -19,7 +19,7 @@ I am Ori ^-^
 
 Coding Commissions: (`Open`)
 > If you or someone you know would like some help with a coding project in python, or if you would like me to take a look at some files and dig deeper into them. Then feel free to hire/commission me! I'd love to help!
-> - Contact me Via the Email below or discord DMs.
+> - Contact me Via the Email below or SimpleX
 __ __
 
 ![](https://komarev.com/ghpvc/?username=therealOri&color=blueviolet&style-plastic)
